@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "acgil_cv.pdf", title: "CV"}
+  - {title: "CV", file: "README.md"}
   - {title: "Publications"}
   - {title: "Posters", file: "2024-01-26-poster01.md"}
   - {title: "Blog", file: "blog.md"}
