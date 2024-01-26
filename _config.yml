@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publications"}
   - {title: "Posters"}
   - {title: "Blog", file: "/blog.md"}
-  - {title: "About Me"}
+  - {title: "About Me", file: "index.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:acgil@up.edu.ph"}
