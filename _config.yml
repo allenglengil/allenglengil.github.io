@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Allen Glen Gil"
+author: "Allen Glen Gil"
+description: "University of the Philippines Los Baños"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:acgil@up.edu.ph"}
+  - {title: Github, icon: github, url: "https://github.com/allenglengil"}
+  - {title: Facebook, icon: facebook, url: "https://facebook.com/allenglen.gil"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
