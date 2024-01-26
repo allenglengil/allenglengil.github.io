@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "acgil_cv.pdf", title: "CV"}
   - {title: "Publications"}
-  - {title: "Posters"}
+  - {title: "Posters", file: "2024-01-26-poster01.md"}
   - {title: "Blog", file: "blog.md"}
   - {title: "About Me", file: "index.md"}
 
