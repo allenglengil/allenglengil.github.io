@@ -16,8 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md", title: "About Me"}
+  - {file: "acgil_cv.pdf", title: "CV"}
+  - {title: "Publications"}
+  - {title: "Posters"}
+  - {title: "Blog"}
+  - {title: "About Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:acgil@up.edu.ph"}
